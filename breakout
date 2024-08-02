@@ -1,12 +1,7 @@
 """
 File: breakout.py
-Name: CitySpy
+Name:
 -----------------------------
-stanCode Breakout Project
-Adapted from Eric Roberts's Breakout by
-Sonja Johnson-Yu, Kylie Jue, Nick Bowman,
-and Jerry Liao.
-
 This program executes breakout game. If the user click the
 mouse for the 1st time each round, the game starts. If the
 ball falls to the ground, lives deducts one. The game will
